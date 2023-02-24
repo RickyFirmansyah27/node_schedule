@@ -13,7 +13,7 @@ nodemon index
 
 #### Screenshoot Output
 Output Node
-![output](images/output.PNG)
+![Output](images/Output.PNG)
 
 #### Screenshoot 2
 Table Record
