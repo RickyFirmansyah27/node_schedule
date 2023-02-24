@@ -16,6 +16,7 @@ Output Node
 ![Output](images/Output.PNG)
 
 #### Screenshoot 2
-Table Record
+
 ![TableRecord](images/TableRecord.PNG)
 
+Table Record
